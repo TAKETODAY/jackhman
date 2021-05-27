@@ -11,7 +11,7 @@
 - [路由级别的权限控制](https://taketoday.cn/articles/1606728769274)
 - [使用 Jackson 实现字段级别的权限控制](https://taketoday.cn/articles/1606728218662)
 
-[查看更多](https://taketoday.cn)
+[查看更多](https://zhenksoft.github.io/)
 
 </td>
 <td valign="top" width="50%">
